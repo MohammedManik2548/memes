@@ -17,15 +17,15 @@ Download Now: [Memes-list-Android-Application.APK](https://drive.google.com/file
 
 ## Installation
 
-To get started with the Todos Flutter Application, follow these steps:
+To get started with the Memes Flutter Application, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/MohammedManik2548/todos_task
+   git clone https://github.com/MohammedManik2548/memes
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd todos_task
+   cd memes
    ```
 3. **Install dependencies**:
    ```bash
@@ -40,14 +40,13 @@ To get started with the Todos Flutter Application, follow these steps:
 
 Once the application is running, you can explore the following functionalities:
 
-- **Login**: log in your email and password.
-- **Browse Task**: Explore the todos catalog.
-- **Task**: Manage your task details.
+- **Browse Memes List**: Explore the memes list catalog.
+- **Memes Details**: Manage your Memes details.
 
 
 ## Screenshots
 
-Here are some screenshots of the Todos_task Flutter Application:
+Here are some screenshots of the Memes List Flutter Application:
 
 |                                                Login Screen                                                |                                                    Todos Screen                                                     |                                                     Add Todos Screen                                                      |
 |:----------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
@@ -68,4 +67,4 @@ For any questions or suggestions, please feel free to contact me at:
 
 ---
 
-Thank you for using the Todos Flutter Application!
+Thank you for using the Memes Flutter Application!
