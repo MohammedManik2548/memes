@@ -26,7 +26,7 @@ class MemeController extends GetxController {
     }
   }
 
-  void filterMemes(String query) {
+  void searchMemes(String query) {
     if (query.isEmpty) {
       filteredMemes.value = memes;
     } else {

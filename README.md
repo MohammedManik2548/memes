@@ -8,7 +8,7 @@ Welcome to the Memes List Flutter Application! This README file provides an over
 This app offers a simple and intuitive way to create, manage, and prioritize editing image.
 ## Download Application
 
-Download Now: [Memes-list-Android-Application.APK](https://drive.google.com/file/d/1VjrUr8IOg3iio0lQRv7cBLyxgNKfpiec/view?usp=sharing)
+Download Now: [Memes-list-Android-Application.APK](https://drive.google.com/file/d/19Ild3T5iqJVabCXzf1ApK2HtCvNGRNTV/view?usp=sharing)
 
 ## Features
 
@@ -21,7 +21,7 @@ To get started with the Memes Flutter Application, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/MohammedManik2548/memes
+   git clone https://github.com/MohammedManik2548/memes.git
    ```
 2. **Navigate to the project directory**:
    ```bash
@@ -48,12 +48,11 @@ Once the application is running, you can explore the following functionalities:
 
 Here are some screenshots of the Memes List Flutter Application:
 
-|                                                Login Screen                                                |                                                    Todos Screen                                                     |                                                     Add Todos Screen                                                      |
-|:----------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
-| <img src="https://github.com/MohammedManik2548/todos_task/blob/master/screenshots/login.jpeg" width="250"> |   <img src="https://github.com/MohammedManik2548/todos_task/blob/master/screenshots/todos_list.jpeg" width="250">   |      <img src="https://github.com/MohammedManik2548/todos_task/blob/master/screenshots/add_todos.jpeg" width="250">       |
-|                                             Edit Todos Screen                                              |                                                   Task Completed                                                    |                                                   Schedule Notification                                                   |
-| <img src="https://github.com/MohammedManik2548/todos_task/blob/master/screenshots/edit_todos.jpeg" width="250">  | <img src="https://github.com/MohammedManik2548/todos_task/blob/master/screenshots/complete_todos.jpeg" width="250"> |    <img src="https://github.com/MohammedManik2548/todos_task/blob/master/screenshots/schedule_notification.jpeg" width="250">    |
-|<img src="https://github.com/MohammedManik2548/todos_task/blob/master/screenshots/instant_notification.jpeg" width="250">|
+|                                                     Meme List Screen                                                      |                                                 Meme Details Screen                                                 |                                                        Crop Screen                                                         |
+|:-------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
+|        <img src="https://github.com/MohammedManik2548/todos_task/blob/master/screenshots/login.jpeg" width="250">         |   <img src="https://github.com/MohammedManik2548/todos_task/blob/master/screenshots/todos_list.jpeg" width="250">   |       <img src="https://github.com/MohammedManik2548/todos_task/blob/master/screenshots/add_todos.jpeg" width="250">       |
+|                                                        Crop Screen                                                        |                                                    Rotate Screen                                                    |                                                                                                      |
+|      <img src="https://github.com/MohammedManik2548/todos_task/blob/master/screenshots/edit_todos.jpeg" width="250">      | <img src="https://github.com/MohammedManik2548/todos_task/blob/master/screenshots/complete_todos.jpeg" width="250"> | 
 ## Credits
 - Code using Flutter with ❤️ by [Md. Abdul Kuddus](https://github.com/MohammedManik2548)
 

@@ -15,7 +15,7 @@ class MemeListScreen extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: TextField(
-              onChanged: (value) => _controller.filterMemes(value),
+              onChanged: (value) => _controller.searchMemes(value),
               decoration: const InputDecoration(
                 labelText: 'Search Memes',
                 border: OutlineInputBorder(),
@@ -32,8 +32,16 @@ class MemeListScreen extends StatelessWidget {
                 itemBuilder: (context, index) {
                   var meme = _controller.filteredMemes[index];
                   return ListTile(
-                    leading: Image.network(meme.url??'', width: 50, height: 50),
-                    title: Text(meme.name??''),
+                    leading: ClipRRect(
+                       borderRadius: BorderRadius.circular(10.0),
+                      child: Image.network(
+                        meme.url ?? '',
+                        width: 50,
+                        height: 50,
+                        fit: BoxFit.cover,
+                      ),
+                    ),
+                    title: Text(meme.name ?? ''),
                     onTap: () {
                       Get.to(() => MemeDetailScreen(meme: meme));
                     },
