@@ -1,4 +1,4 @@
-# Todos Flutter Application - Sheba Group Assignment
+# Meme List and Image editing crop Application
 
 
 Welcome to the Memes List Flutter Application! This README file provides an overview of the app, its features, setup instructions, and other relevant details.
